@@ -2,7 +2,7 @@
 
 Spoticy is a private, free, open source, easy to set up zero knowledge music server and player. It allows you to build your own playlist of music, and listen to it from anywhere in the world.
 
-# Key Spoticy features:
+# Key Spoticy Features:
 
 - end-to-end AES encryption
 - support for AAC, FLAC, OGG, MP3, WAV, OPUS, WEBM
@@ -10,7 +10,7 @@ Spoticy is a private, free, open source, easy to set up zero knowledge music ser
 - upload music from any device
 - low network usage
 
-# Why you should choose Spoticy
+# Why You Should Choose Spoticy
 
 Online music streaming services decide for you how you experience your music. For example, they change how random music works. They play music you listen often, instead of random songs you have collected for years. In case the service goes down, it is very hard to move to another platform with your playlists. You could set up a server using custom hardware or propertiary software. But it is tedious, time-consuming. The software or hardware can be discontinued and you loose your music.
 
@@ -24,7 +24,7 @@ Spoticy give your freedom to:
 - own your music, playlists and experience
 - easily move your music and playlists between providers
 
-# How to install
+# How To Install
 
 1. Upload files to your shared-hosting or VPS supporting PHP
 2. Create a folder called 'files' to store your music
@@ -34,7 +34,7 @@ Spoticy give your freedom to:
 6. Upload music
 7. Play the music
 
-# How to get the music
+# How To Get The Music
 
 Buy music directly from the authors. They earn the most that way. There are also legal platforms to buy music files. Consult the licence to make sure it covers the use case.
 
