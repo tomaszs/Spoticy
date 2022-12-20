@@ -40,4 +40,9 @@ Buy music directly from the authors. They earn the most that way. There are also
 # Motivation
 
 https://tomaszs2.medium.com/what-i-dont-like-about-music-streaming-services-a0d93f19bb91
+
 https://tomaszs2.medium.com/zero-knowledge-music-player-storage-8121432b6869
+
+# Contribution
+
+You are welcome to contribute
