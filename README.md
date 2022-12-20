@@ -30,7 +30,7 @@ Spoticy give your freedom to:
 2. Create a folder called 'files' to store your music
 3. Create playlist.txt file
 4. Open index.html in your browser
-5. Provide a password. It will be used to encrypt and decrypt your files
+5. Provide a password. It will be used to encrypt and decrypt your files. Remember it, because it is not stored anywhere
 6. Upload music
 7. Play the music
 
