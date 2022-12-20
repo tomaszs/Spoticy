@@ -1,4 +1,4 @@
-# Spoticy - A Private Music Server
+# Spoticy - A Zero Knowledge Music Server & Player
 
 Spoticy is a private, free, open source, zero knowledge music server and player. It allows you to build your own playlist of music, and listen to it from anywhere in the world.
 
