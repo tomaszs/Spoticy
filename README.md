@@ -26,7 +26,7 @@ Spoticy give your freedom to:
 
 # How to install
 
-1. Upload files to your shared-hosting or VPN supporting PHP
+1. Upload files to your shared-hosting or VPS supporting PHP
 2. Create a folder called 'files' to store your music
 3. Create playlist.txt file
 4. Open index.html in your browser
@@ -36,7 +36,7 @@ Spoticy give your freedom to:
 
 # How to get the music
 
-Buy music directly from the authors. They earn the most that way. There are also legal platforms to buy music files
+Buy music directly from the authors. They earn the most that way. There are also legal platforms to buy music files. Consult the licence to make sure it covers the use case.
 
 # Motivation
 
