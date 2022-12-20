@@ -28,10 +28,11 @@ Spoticy give your freedom to:
 
 1. Upload files to your shared-hosting or VPN supporting PHP
 2. Create a folder called 'files' to store your music
-3. Open index.html in your browser
-4. Provide a password. It will be used to encrypt and decrypt your files
-5. Upload music
-6. Play the music
+3. Create playlist.txt file
+4. Open index.html in your browser
+5. Provide a password. It will be used to encrypt and decrypt your files
+6. Upload music
+7. Play the music
 
 # How to get the music
 
