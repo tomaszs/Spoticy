@@ -1,6 +1,6 @@
 # Spoticy - A Private Music Server
 
-Spoticy is a private music server. It allows you to build your own playlist of music, and listen to it from anywhere in the world.
+Spoticy is a private, free, open source, zero knowledge music server and player. It allows you to build your own playlist of music, and listen to it from anywhere in the world.
 
 # Key Spoticy features:
 
@@ -36,3 +36,8 @@ Spoticy give your freedom to:
 # How to get the music
 
 Buy music directly from the authors. They earn the most that way. There are also legal platforms to buy music files
+
+# Motivation
+
+https://tomaszs2.medium.com/what-i-dont-like-about-music-streaming-services-a0d93f19bb91
+https://tomaszs2.medium.com/zero-knowledge-music-player-storage-8121432b6869
