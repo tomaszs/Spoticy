@@ -1,4 +1,4 @@
-# 🎵Spoticy - A Zero Knowledge Music Server & Player
+# 🎵Spoticy - A Zero Knowledge Music Server & Player POC
 
 Spoticy is a private, free, open source, easy to set up and customisable zero knowledge music server and player. It allows you to build your own playlist of music, and listen to it from anywhere in the world.
 
@@ -47,3 +47,7 @@ https://tomaszs2.medium.com/zero-knowledge-music-player-storage-8121432b6869
 # Contribution
 
 You are welcome to contribute
+
+# Legal
+
+You use the script at your own risk. The creator is not responsible for any damages resulting from its use.
